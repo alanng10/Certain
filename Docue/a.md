@@ -56,4 +56,4 @@ Certain has major.
 
 Certain has major on will.
 
-Certain has major on event. 
+Certain has major on event.
