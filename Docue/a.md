@@ -67,3 +67,5 @@ Certain has major on rate.
 Certain is will happen time.
 
 Certain meaning is not tagged with the existence of specific time form.
+
+Certain Worth is certain gain worth.
