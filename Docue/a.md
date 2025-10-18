@@ -70,7 +70,7 @@ Certain meaning is not tagged with the existence of specific time form.
 
 Certain is Time gain.
 
-Certain is Real. 
+Certain is Real.
 
 Certain is Real derive.
 
